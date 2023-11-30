@@ -25,7 +25,7 @@ The purpose of this project is to explore api calls using the react ecosystem an
 # Note
 Because of the nature of this project, it is deeply integrated with the pokemon Api https://pokeapi.co/api/v2/pokemon . Most components in the retrieval is hardcoded for the server only and parts cannot be used in other api servers.
 
-For anyone who is beginning to learn react, i advise to create the same project, without help from external packages such as redux or react-modal, most features created is done without packages except for SWR for api calls and pagination.
+For anyone who is beginning to learn react, I advise to create the same project, without help from external packages such as redux or react-modal, most features created is done without packages except for SWR for api calls and pagination.
 
 # Still to do or to improve
 * Add description to selected profiles
